@@ -11,3 +11,4 @@
 ## Resource
 * [How to program your very own OS](https://digital.com/program-your-own-os)
 * [Remzi Arpaci-Dusseau](https://github.com/remzi-arpacidusseau/)
+* [inttel developers manual](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
