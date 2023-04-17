@@ -13,3 +13,5 @@
 
 > Dragon Zap
 * https://www.linkedin.com/in/daniel-mccarthy-363b67b5/?originalSubdomain=uk
+
+* [Write Your Own 64-bit Operating System Kernel From Scratch](https://www.youtube.com/playlist?list=PLZQftyCk7_SeZRitx5MjBKzTtvk0pHMtp)
